@@ -4,8 +4,8 @@ This lab uses K-Means clustering to group credit card customers based on their b
 
 Main tasks:
 
-Data cleaning
-Feature scaling
-K-Means clustering
-Elbow Method
-PCA visualization
+Data cleaning,
+Feature scaling,
+K-Means clustering,
+Elbow Method,
+PCA visualization.
